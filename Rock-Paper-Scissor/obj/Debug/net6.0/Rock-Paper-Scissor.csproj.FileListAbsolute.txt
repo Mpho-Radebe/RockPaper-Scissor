@@ -1,0 +1,15 @@
+C:\Users\rlrad\OneDrive\Desktop\C# Prac\Rock-Paper-Scissor\Rock-Paper-Scissor\bin\Debug\net6.0\Rock-Paper-Scissor.exe
+C:\Users\rlrad\OneDrive\Desktop\C# Prac\Rock-Paper-Scissor\Rock-Paper-Scissor\bin\Debug\net6.0\Rock-Paper-Scissor.deps.json
+C:\Users\rlrad\OneDrive\Desktop\C# Prac\Rock-Paper-Scissor\Rock-Paper-Scissor\bin\Debug\net6.0\Rock-Paper-Scissor.runtimeconfig.json
+C:\Users\rlrad\OneDrive\Desktop\C# Prac\Rock-Paper-Scissor\Rock-Paper-Scissor\bin\Debug\net6.0\Rock-Paper-Scissor.dll
+C:\Users\rlrad\OneDrive\Desktop\C# Prac\Rock-Paper-Scissor\Rock-Paper-Scissor\bin\Debug\net6.0\Rock-Paper-Scissor.pdb
+C:\Users\rlrad\OneDrive\Desktop\C# Prac\Rock-Paper-Scissor\Rock-Paper-Scissor\obj\Debug\net6.0\Rock-Paper-Scissor.csproj.AssemblyReference.cache
+C:\Users\rlrad\OneDrive\Desktop\C# Prac\Rock-Paper-Scissor\Rock-Paper-Scissor\obj\Debug\net6.0\Rock-Paper-Scissor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rlrad\OneDrive\Desktop\C# Prac\Rock-Paper-Scissor\Rock-Paper-Scissor\obj\Debug\net6.0\Rock-Paper-Scissor.AssemblyInfoInputs.cache
+C:\Users\rlrad\OneDrive\Desktop\C# Prac\Rock-Paper-Scissor\Rock-Paper-Scissor\obj\Debug\net6.0\Rock-Paper-Scissor.AssemblyInfo.cs
+C:\Users\rlrad\OneDrive\Desktop\C# Prac\Rock-Paper-Scissor\Rock-Paper-Scissor\obj\Debug\net6.0\Rock-Paper-Scissor.csproj.CoreCompileInputs.cache
+C:\Users\rlrad\OneDrive\Desktop\C# Prac\Rock-Paper-Scissor\Rock-Paper-Scissor\obj\Debug\net6.0\Rock-Paper-Scissor.dll
+C:\Users\rlrad\OneDrive\Desktop\C# Prac\Rock-Paper-Scissor\Rock-Paper-Scissor\obj\Debug\net6.0\refint\Rock-Paper-Scissor.dll
+C:\Users\rlrad\OneDrive\Desktop\C# Prac\Rock-Paper-Scissor\Rock-Paper-Scissor\obj\Debug\net6.0\Rock-Paper-Scissor.pdb
+C:\Users\rlrad\OneDrive\Desktop\C# Prac\Rock-Paper-Scissor\Rock-Paper-Scissor\obj\Debug\net6.0\Rock-Paper-Scissor.genruntimeconfig.cache
+C:\Users\rlrad\OneDrive\Desktop\C# Prac\Rock-Paper-Scissor\Rock-Paper-Scissor\obj\Debug\net6.0\ref\Rock-Paper-Scissor.dll
